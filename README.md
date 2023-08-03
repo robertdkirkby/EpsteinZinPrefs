@@ -1,5 +1,6 @@
 # EpsteinZinPrefs
 Check that EZ preferences seem correctly implemented by solving parameterization that should give same answer as standard vNM prefs
+Just run CompareEZvsvNM.m, it calls everything else.
 
 - LifeCycleModel12compareexo: solves exogenous labor life-cycle model with vNM preferences and gamma=2
 - LifeCycleModel12traditional1: solves exogenous labor life-cycle model with consumption-unit EZ preferences and gamma=2, psi=1/2
